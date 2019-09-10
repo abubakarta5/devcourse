@@ -1,0 +1,38 @@
+/* .body > p { 
+    color: darkblue 
+} */
+
+/* .al {
+    background-color: blue !important;
+    color: gold !important;
+} */
+
+/* .md{
+    background-color: black!important;
+    color: white!important;
+}
+.al{
+    color: blueviolet;
+    background-color: black;
+    text-align: center
+}
+.second{ text-align: center;
+         color: cornsilk;
+         background-color: black
+}
+.third{ text-align: right;
+            color: blue;
+            background-color:pink
+}
+    */
+.live{
+    color: goldenrod;
+    background-color: hotpink;
+    font: italic}
+.well{
+    color: aqua;
+    background-color: pink;
+    text-align: center;
+    font: bold;
+    font: italic;
+}
