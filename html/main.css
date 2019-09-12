@@ -1,0 +1,20 @@
+*,html{
+    box-sizing: border-box;
+}
+p{
+    color: aqua;
+}
+.main {
+    height: 50px; 
+    width: 50px;
+    padding: 0;
+}
+.second {
+    height: 15px; 
+    color: blueviolet
+}
+.other {
+    height: 20px;
+    width: 30px;
+    color: brown
+}

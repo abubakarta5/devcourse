@@ -1,0 +1,63 @@
+/* .al{
+    margin-right: 30%;
+    color: aqua;
+} */
+/* .pic{
+    background-image: url('./fourBedroom2.jpg')
+} */
+*,html{
+    box-sizing: border-box;
+}
+.header-gem{
+    text-align: center;
+
+}
+.pic{
+    position: relative;
+    text-align: center;
+}
+.icons{
+    text-align: center;
+}
+.icon-wp{
+    float: left;
+    width: 20%;
+    padding: 20px;
+}
+.hr-small{
+    width: 20%;
+    font: bold;
+}
+.icon::after{
+    content: '';
+    display: table;
+    clear: both;
+
+}
+
+.more-info::after{
+    content: '';
+    display: table;
+    clear: both;
+}
+.col{
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+}
+.kin{
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.more-info::after{
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.fl{
+    float: left;
+}
