@@ -35,11 +35,7 @@
 
 }
 
-.more-info::after{
-    content: '';
-    display: table;
-    clear: both;
-}
+
 .col{
     float: left;
     width: 33.33%;

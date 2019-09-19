@@ -1,5 +1,25 @@
-.column{
+*,html{
+    box-sizing: border-box;
+}
+
+.col{
     float: left;
     width: 33.33%;
-    padding: 0%;
+    padding: 20px;
+}
+
+.column::after{
+    content: '';
+    display: table;
+    clear: both;
+}
+.login-form{
+    width: 70%;
+    padding: 20%;
+}
+.rightbox{
+    float: right;
+    width: 30%;
+    padding: 10%;
+
 }
